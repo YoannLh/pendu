@@ -17,13 +17,13 @@ body {
 @media (max-width: 600px) {
   #word {
     width: 90vw;
-    margin: 50px auto 25px auto;
+    margin: 25px auto 25px auto;
   }
 }
 
 #word p {
-  margin: 5px;
-  padding: 5px;
+  margin: 4px;
+  padding: 4px;
 }
 
 @media (max-width: 600px) {
@@ -39,7 +39,7 @@ body {
 
 @media (max-width: 600px) {
   #count {
-    margin: 50px auto;
+    margin: 25px auto;
   }
 }
 
@@ -68,7 +68,7 @@ body {
 @media (max-width: 600px) {
   #letters div {
     margin: 5px;
-    padding: 15px;
+    padding: 10px;
   }
 }
 
